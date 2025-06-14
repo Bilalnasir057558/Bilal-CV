@@ -1,4 +1,5 @@
 # Muhammad Bilal Nasir - CV Website
+🔗 Project URL: `https://bilalnasir057558.github.io/Bilal-CV/`
 
 Welcome to the online version of my **Curriculum Vitae (CV)** — built using pure **HTML5** to showcase my education, skills, projects, and professional experience.
 
@@ -10,7 +11,7 @@ This project was created to:
 
 ## 📄 Live Website
 [🌐 View My CV](https://bilalnasir057558.github.io/Bilal-CV/)
-🔗 URL: `https://bilalnasir057558.github.io/Bilal-CV/`
+🔗 Project URL: `https://bilalnasir057558.github.io/Bilal-CV/`
 
 ---
 
