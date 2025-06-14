@@ -10,6 +10,7 @@ This project was created to:
 
 ## 📄 Live Website
 [🌐 View My CV](https://bilalnasir057558.github.io/Bilal-CV/)
+🔗 URL: `https://bilalnasir057558.github.io/Bilal-CV/`
 
 ---
 
