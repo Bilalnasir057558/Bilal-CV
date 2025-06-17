@@ -9,7 +9,7 @@ This project was created to:
 - Prepare for styling with CSS in future phases
 
 ## 📄 Live Website
-[🌐 View My CV]
+[🌐 View My CV] (https://bilalnasir057558.github.io/Resume-Website/)
 
 ---
 
